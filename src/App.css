@@ -1,0 +1,41 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+h1, h2, h3, h4, h5, h6, p {
+  color: white;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.card-img-top{
+  height: 150px;
+  width: 150px;
+}
+
+.card-img-rectangle {
+  height: 150px;
+  width: 250px;
+}
+
+.card-text{
+  text-align: justify;
+}
+
+.fa-linkedin {
+  color: #0072b1;
+}
+
+.fa-envelope {
+  color: #c71610;
+}
